@@ -35,7 +35,9 @@ This project focuses on analyzing hospital transaction data to support better bu
 The main objective is to help hospital management track financial health, understand revenue drivers, measure profitability, and evaluate operational performance. Filters such as doctor gender, patient gender, state, and year allow users to explore the data from different perspectives.
 
 The dashboard shows that the hospital is profitable overall, with a positive profit margin. However, it also reveals a decline in both revenue and patient visits in 2023, which may require further investigation.
+## Hospital Revenue Dashboard
 
+![Hospital Revenue Dashboard](Dashboard1.jpeg)
 ---
 
 # Hospital Revenue Dashboard
