@@ -40,8 +40,6 @@ The dashboard shows that the hospital is profitable overall, with a positive pro
 ![Hospital Revenue Dashboard](Dashboard1.jpeg)
 ---
 
-# Hospital Revenue Dashboard
-
 The Hospital Revenue Dashboard focuses on the financial performance of the hospital. It shows total revenue of **$274K**, total expense of **$189K**, and total profit of **$84.14K**. The hospital achieved a profit margin of **30.8%**, indicating that it is operating profitably.
 
 Revenue performance by year and quarter shows that revenue was relatively stable in 2021, improved strongly in 2022, and declined significantly in 2023. The highest revenue point occurred in **Q4 2022**, while the lowest revenue point appeared in **Q3 2023**. This trend suggests that the hospital experienced strong growth before facing a sharp drop in recent performance.
@@ -51,7 +49,9 @@ By specialty, **Dermatology**, **Cardiology**, and **Neurology** are the leading
 The revenue by category also shows strong performance in Dermatology, Radiology, Pediatrics, Orthopedics, and Cardiology. This indicates that revenue is spread across several medical service categories, although some areas contribute more strongly than others.
 
 The procedure-level table shows that most procedures maintain a stable profit margin of around **30% to 32%**. This means the hospital has fairly consistent profitability across different services. However, the total number of transactions suggests that increasing patient volume could improve overall revenue and profit.
+## Hospital Performance Dashboard
 
+![Hospital Performance Dashboard](Dashboard2.jpeg)
 ---
 
 # Hospital Performance Dashboard
