@@ -54,8 +54,6 @@ The procedure-level table shows that most procedures maintain a stable profit ma
 ![Hospital Performance Dashboard](Dashboard2.jpeg)
 ---
 
-# Hospital Performance Dashboard
-
 The Hospital Performance Dashboard focuses on operational activity, including doctor performance, patient contribution, gender distribution, specialty distribution, and patient visits over time.
 
 The dashboard shows that the hospital has **81 doctors** and **86 patients**. Doctor distribution is slightly higher among male doctors, while patient distribution is slightly higher among female patients.
